@@ -133,7 +133,7 @@ python src/visualizations.py
 
 ---
 
-## 📈 Alert Types Implemented
+## Alert Types Implemented
 
 ### 1. Statistical Outliers (Z-Score Method)
 - Detects prices deviating >3σ from baseline
@@ -217,22 +217,7 @@ python src/visualizations.py
 1. **Enhance coupling algorithm** for extreme weather scenarios
 2. **Review TSO capacity reduction protocols** during storms
 3. **Improve system monitoring** to prevent manual fallbacks
-4. **Develop early warning system** for transmission stress
-
----
-
-## Case Study Context
-
-**Position:** Market Surveillance Analyst  
-**Company:** Nord Pool (Euronext Group)  
-**Date:** October 2025  
-**Task:** Design and implement Python alert system for day-ahead price monitoring
-
-**Requirements Met:**
-Python-based alert detection  
-Professional visualizations  
-Investigation framework  
-Comprehensive documentation  
+4. **Develop early warning system** for transmission stress 
 
 ---
 
@@ -255,13 +240,6 @@ Comprehensive documentation
 - Pattern recognition
 - Evidence-based investigation
 - Regulatory compliance assessment
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ---
 
