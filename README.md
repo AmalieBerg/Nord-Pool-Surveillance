@@ -160,7 +160,7 @@ python src/visualizations.py
 ## Visualizations
 
 ### Time Series with Alert Markers
-![Time Series](output/visualization_1_timeseries.png)
+![Time Series](output/visualization_1_timeseries_alert.png)
 
 ### Price Heatmap (Geographic + Temporal)
 ![Heatmap](output/visualization_2_heatmap.png)
