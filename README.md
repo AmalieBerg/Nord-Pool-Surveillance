@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a comprehensive **market surveillance alert system** for detecting suspicious price behavior in Nordic and Baltic day-ahead electricity markets. Developed as part of a case study for a **Market Surveillance Analyst** position at **Nord Pool** (Euronext Group).
 
@@ -15,7 +15,7 @@ The system successfully identified a critical price event on **October 7, 2025**
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 ### Alert Detection System
 - **5 complementary detection algorithms** combining statistical and rule-based approaches
@@ -38,7 +38,7 @@ The system successfully identified a critical price event on **October 7, 2025**
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Critical Event: October 7, 2025
 
@@ -60,7 +60,7 @@ The system successfully identified a critical price event on **October 7, 2025**
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **Core:**
 - Python 3.8+
@@ -75,7 +75,7 @@ The system successfully identified a critical price event on **October 7, 2025**
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 nord-pool-surveillance/
@@ -106,7 +106,7 @@ nord-pool-surveillance/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -133,7 +133,7 @@ python src/visualizations.py
 
 ---
 
-## 📈 Alert Types Implemented
+## Alert Types Implemented
 
 ### 1. Statistical Outliers (Z-Score Method)
 - Detects prices deviating >3σ from baseline
@@ -157,10 +157,10 @@ python src/visualizations.py
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Time Series with Alert Markers
-![Time Series](output/visualization_1_timeseries.png)
+![Time Series](output/visualization_1_timeseries_alerts.png)
 
 ### Price Heatmap (Geographic + Temporal)
 ![Heatmap](output/visualization_2_heatmap.png)
@@ -173,7 +173,7 @@ python src/visualizations.py
 
 ---
 
-## 🔍 Investigation Methodology
+## Investigation Methodology
 
 ### Phase 1: Data Verification
 - Confirm price accuracy
@@ -200,7 +200,7 @@ python src/visualizations.py
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
 ### Technical
 - **Multi-method detection** more robust than single approach
@@ -217,26 +217,11 @@ python src/visualizations.py
 1. **Enhance coupling algorithm** for extreme weather scenarios
 2. **Review TSO capacity reduction protocols** during storms
 3. **Improve system monitoring** to prevent manual fallbacks
-4. **Develop early warning system** for transmission stress
+4. **Develop early warning system** for transmission stress 
 
 ---
 
-## 📄 Case Study Context
-
-**Position:** Market Surveillance Analyst  
-**Company:** Nord Pool (Euronext Group)  
-**Date:** October 2025  
-**Task:** Design and implement Python alert system for day-ahead price monitoring
-
-**Requirements Met:**
-✅ Python-based alert detection  
-✅ Professional visualizations  
-✅ Investigation framework  
-✅ Comprehensive documentation  
-
----
-
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 **Technical:**
 - Python programming (pandas, numpy, matplotlib)
@@ -258,42 +243,9 @@ python src/visualizations.py
 
 ---
 
-## 📞 Contact
-
-**Author:** Amalie Berg  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]  
-**Portfolio:** [Your Portfolio]
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Nord Pool** for providing the case study opportunity
-- **REMIT Framework** for market surveillance guidance
-- **Euronext Group** for market integrity commitment
-
----
-
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a case study project developed for a Market Surveillance Analyst interview. While based on realistic market scenarios and professional surveillance methodologies, specific market data and findings are used for educational and demonstration purposes. All analysis follows public REMIT guidelines and market surveillance best practices.
 
 ---
 
-## 🔗 Related Resources
-
-- [Nord Pool Official Website](https://www.nordpoolgroup.com/)
-- [REMIT Regulation](https://www.acer.europa.eu/remit)
-- [ACER Market Monitoring](https://www.acer.europa.eu/remit/remit-market-monitoring)
-- [Euronext Compliance](https://www.euronext.com/en/regulation)
-
----
-
-**⭐ If you find this project interesting, please consider starring the repository!**
