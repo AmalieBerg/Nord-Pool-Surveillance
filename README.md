@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This project implements a comprehensive **market surveillance alert system** for detecting suspicious price behavior in Nordic and Baltic day-ahead electricity markets. Developed as part of a case study for a **Market Surveillance Analyst** position at **Nord Pool** (Euronext Group).
+This project implements a comprehensive **market surveillance alert system** for detecting suspicious price behavior in Nordic and Baltic day-ahead electricity markets. Developed as part of a case study for **Nord Pool** (Euronext Group).
 
 The system successfully identified a critical price event on **October 7, 2025**, when Lithuania and Latvia experienced prices of **1,173.65 EUR/MWh** - later determined to be caused by **Storm Amy** combined with transmission system stress.
 
